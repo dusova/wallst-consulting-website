@@ -5,6 +5,8 @@
 ### Detaylı Proje Açıklaması
 Wall Street Consulting web platformu, göçmenlik ve vize danışmanlığı alanında faaliyet gösteren bir şirket için geliştirilmiş, tamamen özel bir dijital çözümdür. Proje, kullanıcılara Amerika Birleşik Devletleri ve Avrupa'daki vize, oturum, eğitim, doğum ve yatırım süreçleri için uçtan uca bir danışmanlık deneyimi sunmayı amaçlamaktadır.
 
+![Wall Street Consulting - Website](WallStreetConsultingLLCWebsite.png)
+
 ### Vizyonumuz
 Teknoloji ve insan odaklı yaklaşımla, uluslararası göç süreçlerini basitleştirmek ve müşterilerimize en kaliteli danışmanlık hizmetini dijital platformlar aracılığıyla sunmak.
 
