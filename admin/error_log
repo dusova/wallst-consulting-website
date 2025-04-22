@@ -1,0 +1,9 @@
+[21-Feb-2025 18:32:13 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:32:13 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:32:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:39:26 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:39:26 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:39:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:39:32 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:39:32 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/admin/index.php on line 9
+[21-Feb-2025 18:39:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/admin/index.php on line 9

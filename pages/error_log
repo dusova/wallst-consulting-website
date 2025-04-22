@@ -1,0 +1,74 @@
+[21-Feb-2025 18:40:44 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/pages/investment-in-usa.php on line 2
+[21-Feb-2025 18:40:44 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/pages/investment-in-usa.php on line 2
+[21-Feb-2025 18:40:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/pages/investment-in-usa.php on line 2
+[22-Feb-2025 00:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/yetkin/public_html/pages/abroad-education.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/pages/abroad-education.php on line 5
+[22-Feb-2025 00:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/yetkin/public_html/pages/abroad-education.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/pages/abroad-education.php on line 13
+[22-Feb-2025 00:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/yetkin/public_html/pages/abroad-education.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/pages/abroad-education.php on line 13
+[22-Feb-2025 00:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/yetkin/public_html/pages/abroad-education.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/pages/abroad-education.php on line 13
+[22-Feb-2025 00:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/abroad-education.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/abroad-education.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/abroad-education.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:09:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/usa-visa.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/birth-in-usa.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/birth-in-usa.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yetkin/public_html/system/connection.php:9
+Stack trace:
+#0 /home/yetkin/public_html/pages/birth-in-usa.php(2): require_once()
+#1 {main}
+  thrown in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:12 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yetkin/public_html/pages/birth-in-usa.php on line 5
+[22-Feb-2025 00:14:17 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yetkin/public_html/pages/investment-in-usa.php on line 5
+[22-Feb-2025 00:14:22 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yetkin/public_html/pages/sign-in-usa.php on line 5
+[22-Feb-2025 00:14:25 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yetkin/public_html/pages/sign-in-usa.php on line 5
+[22-Feb-2025 00:15:02 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:15:02 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yetkin/public_html/pages/usa-visa.php on line 5
+[22-Feb-2025 00:15:05 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:15:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yetkin/public_html/pages/birth-in-usa.php on line 5
+[23-Feb-2025 08:36:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yetkin/public_html/system/connection.php on line 8
+[23-Feb-2025 08:36:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/yetkin/public_html/system/connection.php on line 10
+[23-Feb-2025 08:37:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yetkin/public_html/system/connection.php on line 8
+[23-Feb-2025 08:37:01 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/yetkin/public_html/system/connection.php on line 10
+[23-Feb-2025 08:38:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'yetkin_krnwallst'@'localhost' (using password: YES) in /home/yetkin/public_html/system/connection.php on line 8
+[23-Feb-2025 08:38:07 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/yetkin/public_html/system/connection.php on line 10
+[23-Feb-2025 08:38:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'yetkin_krnwallst'@'localhost' (using password: YES) in /home/yetkin/public_html/system/connection.php on line 8
+[23-Feb-2025 08:38:08 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/yetkin/public_html/system/connection.php on line 10

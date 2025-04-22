@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+
+        :root {
+            --primary: #0042da;
+            --secondary: #1e3a8a;
+            --accent: #3b82f6;
+            --dark: #0f172a;
+            --light: #f8fafc;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--light);
+        }
+
+        /* Smooth Scroll */
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 80px;
+        }
+
+        /* Navbar Styles */
+        .navbar {
+            padding: 1.5rem 0;
+            transition: all 0.3s ease;
+            background: transparent;
+        }
+
+        .navbar.scrolled {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .navbar-brand {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        .nav-link {
+            font-weight: 500;
+            padding: 0.5rem 1rem !important;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 1rem;
+            right: 1rem;
+            height: 2px;
+            background: var(--primary);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .nav-link:hover::after {
+            transform: scaleX(1);
+        }
+
+        /* Page Header */
+        .page-header {
+            background: linear-gradient(to right, var(--dark), var(--secondary));
+            padding: 120px 0 80px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .breadcrumb-item + .breadcrumb-item::before {
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        /* Content Styling */
+        .content-section {
+            padding: 80px 0;
+        }
+
+        .content-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        /* Sidebar */
+        .sidebar-nav {
+            position: sticky;
+            top: 100px;
+        }
+
+        .sidebar-nav .nav-link {
+            color: var(--dark);
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .sidebar-nav .nav-link:hover,
+        .sidebar-nav .nav-link.active {
+            background: var(--primary);
+            color: white;
+        }
+
+
+
+        .btn-danger {
+            background:rgb(227, 23, 23);
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-danger:hover {
+            background: rgb(171, 22, 22);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 3rem;
+            }
+            
+            .navbar {
+                background: rgba(255,255,255,0.95);
+                backdrop-filter: blur(10px);
+            }
+        }
+
+        .card {
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .card-text {
+            font-size: 1.5rem;
+            font-weight: 500;
+        }
+
+        .display-4 {
+            font-size: 2.5rem;
+        }
+
+        .display-6 {
+            font-size: 1.75rem;
+        }
+
+        .row {
+            margin-bottom: 30px;
+        }
+
+        .content-card {
+            padding: 30px;
+            border-radius: 15px;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .content-card h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .content-card p {
+            font-size: 1rem;
+            font-weight: 400;
+            color: #6c757d;
+        }
+        .table-hover tbody tr:hover {
+        background-color: rgba(0, 66, 218, 0.1);
+        }
+
+        .table-dark th {
+            background-color: #0042da;
+            color: white;
+        }
+
+        .btn-warning {
+            background-color: #ffc107;
+            border: none;
+            transition: all 0.3s ease;
+        }
+
+        .btn-warning:hover {
+            background-color: #e0a800;
+            transform: translateY(-2px);
+        }
+
+        .btn-blogdelete {
+            background-color: #dc3545;
+            border: none;
+            transition: all 0.3s ease;
+        }
+
+        .btn-blogdelete:hover {
+            background-color: #c82333;
+            transform: translateY(-2px);
+        }
+        .login-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .login-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .btn-primary {
+            background: var(--primary);
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        .btn-primary:hover {
+            background: var(--secondary);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        .form-control {
+            margin-bottom: 0;
+        }
+        .card {
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .card-header {
+            background-color: #f8f9fa;
+        }
+        .form-label {
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+        }
+        .mb-3:last-child {
+            margin-bottom: 0 !important;
+        }
+        textarea.form-control {
+            min-height: 100px;
+        }

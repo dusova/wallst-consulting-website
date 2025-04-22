@@ -1,0 +1,71 @@
+[21-Feb-2025 17:57:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'yetkin_krnwallst'@'localhost' (using password: YES) in /home/yetkin/public_html/system/connection.php on line 8
+[21-Feb-2025 17:58:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'yetkin_krnwallst'@'localhost' (using password: YES) in /home/yetkin/public_html/system/connection.php on line 8
+[21-Feb-2025 17:58:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'yetkin_krnwallst'@'localhost' (using password: YES) in /home/yetkin/public_html/system/connection.php on line 8
+[21-Feb-2025 18:02:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yetkin/public_html/read-blog.php on line 9
+[21-Feb-2025 18:02:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yetkin/public_html/read-blog.php on line 9
+[21-Feb-2025 18:03:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '127.0.0.1'@'localhost' (using password: YES) in /home/yetkin/public_html/read-blog.php on line 9
+[21-Feb-2025 18:04:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'yetkin_wallstcons'@'localhost' (using password: YES) in /home/yetkin/public_html/read-blog.php on line 9
+[21-Feb-2025 18:04:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'yetkin_wallstcons'@'localhost' (using password: YES) in /home/yetkin/public_html/read-blog.php on line 9
+[21-Feb-2025 18:28:53 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:28:53 UTC] PHP Warning:  include(https://usadanismani.com/includes/header.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:28:53 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:28:53 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:28:53 UTC] PHP Warning:  include(https://usadanismani.com/includes/footer.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:28:53 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:29:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:29:12 UTC] PHP Warning:  include(https://usadanismani.com/includes/header.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:29:12 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:29:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:29:12 UTC] PHP Warning:  include(https://usadanismani.com/includes/footer.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:29:12 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:31:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:31:42 UTC] PHP Warning:  include(https://usadanismani.com/includes/header.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:31:42 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:31:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:31:42 UTC] PHP Warning:  include(https://usadanismani.com/includes/footer.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:31:42 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:31:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:31:58 UTC] PHP Warning:  include(https://usadanismani.com/includes/header.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:31:58 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:31:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:31:58 UTC] PHP Warning:  include(https://usadanismani.com/includes/footer.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:31:58 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(https://usadanismani.com/includes/header.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(https://usadanismani.com/includes/footer.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(https://usadanismani.com/includes/header.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 90
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(https://usadanismani.com/includes/footer.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:32:15 UTC] PHP Warning:  include(): Failed opening 'https://usadanismani.com/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/index.php on line 647
+[21-Feb-2025 18:36:30 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/tos.php on line 2
+[21-Feb-2025 18:36:30 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/tos.php on line 2
+[21-Feb-2025 18:36:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/tos.php on line 2
+[21-Feb-2025 18:36:34 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/tos.php on line 2
+[21-Feb-2025 18:36:34 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/tos.php on line 2
+[21-Feb-2025 18:36:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/tos.php on line 2
+[21-Feb-2025 18:36:37 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/yetkin/public_html/privacy-policy.php on line 2
+[21-Feb-2025 18:36:37 UTC] PHP Warning:  require_once(https://usadanismani.com/system/connection.php): failed to open stream: no suitable wrapper could be found in /home/yetkin/public_html/privacy-policy.php on line 2
+[21-Feb-2025 18:36:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://usadanismani.com/system/connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/yetkin/public_html/privacy-policy.php on line 2
+[22-Feb-2025 00:14:34 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:34 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/yetkin/public_html/apply-now.php on line 55
+[22-Feb-2025 00:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/yetkin/public_html/apply-now.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/apply-now.php on line 56
+[22-Feb-2025 00:14:59 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:59 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/yetkin/public_html/apply-now.php on line 55
+[22-Feb-2025 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/yetkin/public_html/apply-now.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/apply-now.php on line 56
+[22-Feb-2025 00:14:59 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/yetkin/public_html/system/connection.php on line 9
+[22-Feb-2025 00:14:59 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/yetkin/public_html/apply-now.php on line 55
+[22-Feb-2025 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/yetkin/public_html/apply-now.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/yetkin/public_html/apply-now.php on line 56
